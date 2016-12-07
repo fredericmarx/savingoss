@@ -11,6 +11,6 @@ Tweet links to 🆒 Open Source projects at [@savingoss](https://twitter.com/sav
 As long as this is just a small project, we will retweet anything that contributes to making this community a positive environment for sharing knowledge as outlined in our Code of Conduct. 
 
 ## Contact
-If you have any questions or feel like we shared something we shouldn’t have (especially with regards to our Code of Conduct), don’t hesitate to raise an issue on this repository, send us a DM on [Twitter](https://twitter.com/savingoss) or email [savingoss@gmail.com](mailto:savingoss@gmail.com).
+If you have any questions or feel like we shared something we shouldn’t have (especially with regards to our Code of Conduct), don’t hesitate to [raise an issue on this repository](https://github.com/fredericmarx/savingoss/issues/new), send us a DM on [Twitter](https://twitter.com/savingoss) or email [savingoss@gmail.com](mailto:savingoss@gmail.com).
 
 Your message will be treated confidentially and we will respond as soon as possible.
