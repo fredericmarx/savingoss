@@ -4,6 +4,8 @@ Share what Open Source Software you’re saving for later. Not affiliated with b
 
 🔁 Retweets curated by [@fredericmarx](https://twitter.com/fredericmarx).
 
+✍️ [Tweet us a link](https://twitter.com/intent/tweet?text=🌟%20%40savingoss)
+
 ## How does it work?
 
 Tweet links to 🆒 Open Source projects at [@savingoss](https://twitter.com/savingoss). A sensible number of selected links will be retweeted manually on a regular basis.
