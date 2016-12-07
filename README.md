@@ -1,6 +1,6 @@
 # 🌟 Saving OSS
 
-Share what Open Source Software you’re saving for later. Not affiliated with but inspired by [@reading](https://twitter.com/reading).
+[@savingoss](https://twitter.com/savingoss) is a Twitter account collecting the Open Source Software you’re saving for later. Not affiliated with but inspired by [@reading](https://twitter.com/reading).
 
 🔁 Retweets curated by [@fredericmarx](https://twitter.com/fredericmarx).
 
